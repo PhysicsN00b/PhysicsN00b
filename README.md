@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PhysicsN00b
+- 👀 I’m interested in Physics 
+- 🌱 I’m currently learning Quantum Computers, Quantum Communications, and fundemetal physical concepts like QM and Emag
+- 💞️ I’m looking to collaborate on Quantum Comms
